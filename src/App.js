@@ -7,7 +7,7 @@ export default function App() {
         <h1>Weather App</h1>
         <Weather />
         <footer>
-          This project was created by Beatriz LULULUL Magro and is{" "}
+          This project was created by Beatriz Magro and is{" "}
           <a
             href="https://github.com/BeatrizMagro/final-weather-react"
             target="_blank"
